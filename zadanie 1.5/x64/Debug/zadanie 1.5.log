@@ -1,0 +1,4 @@
+﻿  zadanie 1.5.cpp
+C:\Users\Waldemar\source\repos\KursCPP3\zadanie 1.5\zadanie 1.5.cpp(9,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Waldemar\source\repos\KursCPP3\zadanie 1.5\zadanie 1.5.cpp(25,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  zadanie 1.5.vcxproj -> C:\Users\Waldemar\source\repos\KursCPP3\x64\Debug\zadanie 1.5.exe

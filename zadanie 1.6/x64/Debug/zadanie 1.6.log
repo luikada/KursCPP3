@@ -1,0 +1,3 @@
+﻿  zadanie 1.6.cpp
+C:\Users\Waldemar\source\repos\KursCPP3\zadanie 1.6\zadanie 1.6.cpp(14,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  zadanie 1.6.vcxproj -> C:\Users\Waldemar\source\repos\KursCPP3\x64\Debug\zadanie 1.6.exe
